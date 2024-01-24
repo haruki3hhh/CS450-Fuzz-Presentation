@@ -1,5 +1,8 @@
 # CS450-Fuzz-Presentation
-
+### How to download AFL
+```bash
+git clone https://github.com/google/AFL.git
+```
 ### How to re-compile AFL
 ```bash
 cd AFL && make clean && make
